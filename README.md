@@ -10,3 +10,7 @@ Hotels Nigeria Internship Stream 6 Repo
 
 - [x] HNGInternship Sheet Code
 	- shn00734
+	
+- [x] Hosted Web CV Github
+	- https://ubarab.github.io/hngiv6/
+	
